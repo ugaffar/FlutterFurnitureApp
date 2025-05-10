@@ -4,7 +4,8 @@ This is a fully-featured e-commerce furniture app built with Flutter. It support
 
 ## 🛍️ App Preview
 
-![App Preview](./FlutterFurnitureApp_mock_ui.png)
+![App Preview] (./FlutterFurnitureApp_mock_ui.png)
+
 
 
 ## 🛍️ Features
