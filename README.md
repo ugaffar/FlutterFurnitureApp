@@ -2,6 +2,11 @@
 
 This is a fully-featured e-commerce furniture app built with Flutter. It supports product browsing, search, shopping cart, wishlist, address management, and payment integration.
 
+## 📱 App Preview
+
+![App Preview](./app_preview.png)
+
+
 ## 🛍️ Features
 - Product listing and detail view
 - Wishlist and cart functionality
