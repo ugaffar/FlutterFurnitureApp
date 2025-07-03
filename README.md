@@ -23,6 +23,3 @@ I’ve forked and customized this project to showcase:
 - Clean UI layout based on a professional design
 - Payment integration in mobile apps
 
-## 📬 Contact
-Hire me to build your custom mobile shopping experience:  
-👉 [https://www.fiverr.com/ugaffar](https://www.fiverr.com/ugaffar)
